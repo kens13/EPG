@@ -1,0 +1,1038 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="00411" tvg-name="Information" tvg-logo="C:\temp\iptv\info.png" group-title="Information",Information
+http://null
+#EXTINF:-1 tvg-id="11331" tvg-name="CBS New York HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/92.png" group-title="Entertainments",CBS New York HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/45.ts
+#EXTINF:-1 tvg-id="" tvg-name="003" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="11705" tvg-name="NBC New York HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/965.png" group-title="Entertainments",NBC New York HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/216.ts
+#EXTINF:-1 tvg-id="11746" tvg-name="FOX New York HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3220.png" group-title="Entertainments",FOX New York HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/365.ts
+#EXTINF:-1 tvg-id="" tvg-name="006" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="11259" tvg-name="ABC New York HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3527.png" group-title="Entertainments",ABC New York HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/393.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC Miami" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/2334.png" group-title="Entertainments",ABC Miami
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/334.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Miami" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/233.png" group-title="Entertainments",NBC Miami
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/103.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Miami" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/235.png" group-title="Entertainments",FOX Miami
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/104.ts
+#EXTINF:-1 tvg-id="" tvg-name="011" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="012" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="013" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="014" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="015" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="016" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="017" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="018" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="019" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="020" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="CHching!" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3660.png" group-title="Entertainments",CHching!
+http://52.86.189.59:1935/live/news/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="022" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="023" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="024" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="025" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="026" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="027" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="028" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="029" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="030" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="031" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="032" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="033" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="034" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="035" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="036" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="037" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="038" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="039" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="040" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="042" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="04x" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="043" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="044" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="045" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="046" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="047" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="048" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="049" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="050" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="051" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="052" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="053" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="054" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="055" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="056" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="057" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="058" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="059" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="060" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="061" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="062" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="063" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="064" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="065" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="066" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="067" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="068" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="069" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="070" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="071" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="072" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="073" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="074" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="075" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="076" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="London Live" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3619.png" group-title="Entertainments",London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434-b/3083279840001/master.m3u8
+#EXTINF:-1 tvg-id="17468" tvg-name="ITV" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/759.png" group-title="Entertainments",ITV
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/170.ts
+#EXTINF:-1 tvg-id="20630" tvg-name="ITV 2" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/243.png" group-title="Entertainments",ITV 2
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/106.ts
+#EXTINF:-1 tvg-id="44643" tvg-name="ITV 3" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1399.png" group-title="Entertainments",ITV 3
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/268.ts
+#EXTINF:-1 tvg-id="48020" tvg-name="ITV 4" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1401.png" group-title="Entertainments",ITV 4
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/269.ts
+#EXTINF:-1 tvg-id="" tvg-name="TG 4" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1403.png" group-title="Entertainments",TG 4
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/270.ts
+#EXTINF:-1 tvg-id="75804" tvg-name="4 Seven" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1600.png" group-title="Entertainments",4 Seven
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/291.ts
+#EXTINF:-1 tvg-id="50716" tvg-name="Channel 4" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1405.png" group-title="Entertainments",Channel 4
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/271.ts
+#EXTINF:-1 tvg-id="50717" tvg-name="Channel 5" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1407.png" group-title="Entertainments",Channel 5
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/272.ts
+#EXTINF:-1 tvg-id="17443" tvg-name="SKY Living" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1409.png" group-title="Entertainments",SKY Living
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/273.ts
+#EXTINF:-1 tvg-id="61458" tvg-name="Watch" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1411.png" group-title="Entertainments",Watch
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/274.ts
+#EXTINF:-1 tvg-id="17442" tvg-name="Gold" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1413.png" group-title="Entertainments",Gold
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/275.ts
+#EXTINF:-1 tvg-id="24305" tvg-name="Dave" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1415.png" group-title="Entertainments",Dave
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/276.ts
+#EXTINF:-1 tvg-id="49611" tvg-name="SKY One" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1417.png" group-title="Entertainments",SKY One
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/277.ts
+#EXTINF:-1 tvg-id="70434" tvg-name="SKY Atlantic" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1419.png" group-title="Entertainments",SKY Atlantic
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/278.ts
+#EXTINF:-1 tvg-id="25117" tvg-name="E4" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1421.png" group-title="Entertainments",E4
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/279.ts
+#EXTINF:-1 tvg-id="47657" tvg-name="More 4" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1423.png" group-title="Entertainments",More 4
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/280.ts
+#EXTINF:-1 tvg-id="45283" tvg-name="Challenge" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1425.png" group-title="Entertainments",Challenge
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/281.ts
+#EXTINF:-1 tvg-id="21258" tvg-name="Alibi" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1750.png" group-title="Entertainments",Alibi
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/296.ts
+#EXTINF:-1 tvg-id="66716" tvg-name="Pick" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/771.png" group-title="Entertainments",Pick
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/171.ts
+#EXTINF:-1 tvg-id="52336" tvg-name="5 Star" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1429.png" group-title="Entertainments",5 Star
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/283.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTE ONE" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/777.png" group-title="Entertainments",RTE ONE
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/172.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTE TWO" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/779.png" group-title="Entertainments",RTE TWO
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/173.ts
+#EXTINF:-1 tvg-id="17153" tvg-name="BBC ONE" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/801.png" group-title="Entertainments",BBC ONE
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/176.ts
+#EXTINF:-1 tvg-id="17154" tvg-name="BBC TWO" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1263.png" group-title="Entertainments",BBC TWO
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/247.ts
+#EXTINF:-1 tvg-id="20684" tvg-name="BBC Four" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1435.png" group-title="Entertainments",BBC Four
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/285.ts
+#EXTINF:-1 tvg-id="90855" tvg-name="ITV Be" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1747.png" group-title="Entertainments",ITV Be
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/295.ts
+#EXTINF:-1 tvg-id="52335" tvg-name="5 USA" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1431.png" group-title="Entertainments",5 USA
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/284.ts
+#EXTINF:-1 tvg-id="11207" tvg-name="USA Network HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/20.png" group-title="Entertainments",USA Network HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/5.ts
+#EXTINF:-1 tvg-id="16123" tvg-name="TV Land HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3117.png" group-title="Entertainments",TV Land HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/360.ts
+#EXTINF:-1 tvg-id="10149" tvg-name="Comedy Central East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/34.png" group-title="Entertainments",Comedy Central East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/17.ts
+#EXTINF:-1 tvg-id="10918" tvg-name="Lifetime East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/543.png" group-title="Entertainments",Lifetime East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/127.ts
+#EXTINF:-1 tvg-id="18480" tvg-name="Lifetime Movie Network HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3524.png" group-title="Entertainments",Lifetime Movie Network HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/391.ts
+#EXTINF:-1 tvg-id="" tvg-name="True Drama" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1437.png" group-title="Entertainments",True Drama
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/286.ts
+#EXTINF:-1 tvg-id="28634" tvg-name="Good Food" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1265.png" group-title="Culture",Good Food
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/248.ts
+#EXTINF:-1 tvg-id="50747" tvg-name="Food Network East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/25.png" group-title="Culture",Food Network East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/10.ts
+#EXTINF:-1 tvg-id="30156" tvg-name="Cooking Channel HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3263.png" group-title="Culture",Cooking Channel HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/368.ts
+#EXTINF:-1 tvg-id="10989" tvg-name="E! HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1203.png" group-title="Entertainments",E! HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/234.ts
+#EXTINF:-1 tvg-id="14902" tvg-name="HGTV East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/2507.png" group-title="Entertainments",HGTV East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/336.ts
+#EXTINF:-1 tvg-id="18544" tvg-name="DIY Network USA HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/45.png" group-title="Entertainments",DIY Network USA HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/27.ts
+#EXTINF:-1 tvg-id="82575" tvg-name="Drama" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1439.png" group-title="Entertainments",Drama
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/287.ts
+#EXTINF:-1 tvg-id="10036" tvg-name="A&E East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/583.png" group-title="Entertainments",A&E East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/146.ts
+#EXTINF:-1 tvg-id="26772" tvg-name="H2" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1471.png" group-title="Entertainments",H2
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/289.ts
+#EXTINF:-1 tvg-id="57708" tvg-name="History HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/32.png" group-title="Entertainments",History HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/15.ts
+#EXTINF:-1 tvg-id="65732" tvg-name="Viceland HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3864.png" group-title="Entertainments",Viceland HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/6187.ts
+#EXTINF:-1 tvg-id="11097" tvg-name="Syfy HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3120.png" group-title="Entertainments",Syfy HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/361.ts
+#EXTINF:-1 tvg-id="17454" tvg-name="TLC" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/104.png" group-title="Entertainments",TLC
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/47.ts
+#EXTINF:-1 tvg-id="63236" tvg-name="BET HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3861.png" group-title="Entertainments",BET HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/6098.ts
+#EXTINF:-1 tvg-id="17927" tvg-name="FXX East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1201.png" group-title="Entertainments",FXX East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/233.ts
+#EXTINF:-1 tvg-id="71280" tvg-name="Sundance TV" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3853.png" group-title="Entertainments",Sundance TV
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/5980.ts
+#EXTINF:-1 tvg-id="21484" tvg-name="Oxygen HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/33.png" group-title="Entertainments",Oxygen HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/16.ts
+#EXTINF:-1 tvg-id="16409" tvg-name="WE TV" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/30.png" group-title="Entertainments",WE TV
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/14.ts
+#EXTINF:-1 tvg-id="10057" tvg-name="Bravo East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1870.png" group-title="Entertainments",Bravo East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/318.ts
+#EXTINF:-1 tvg-id="73970" tvg-name="CBS Action" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1259.png" group-title="Entertainments",CBS Action
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/245.ts
+#EXTINF:-1 tvg-id="10021" tvg-name="AMC East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/663.png" group-title="Entertainments",AMC East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/163.ts
+#EXTINF:-1 tvg-id="12852" tvg-name="TCM US HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/675.png" group-title="Cinema",TCM US HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/169.ts
+#EXTINF:-1 tvg-id="59444" tvg-name="IFC HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3859.png" group-title="Entertainments",IFC HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/6096.ts
+#EXTINF:-1 tvg-id="35484" tvg-name="FOX" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/247.png" group-title="Entertainments",FOX
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/107.ts
+#EXTINF:-1 tvg-id="64492" tvg-name="BBC America HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/39.png" group-title="Cinema",BBC America HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/21.ts
+#EXTINF:-1 tvg-id="14321" tvg-name="FX East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/585.png" group-title="Entertainments",FX East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/147.ts
+#EXTINF:-1 tvg-id="89888" tvg-name="itv ENCORE" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/48.png" group-title="Entertainments",itv ENCORE
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/29.ts
+#EXTINF:-1 tvg-id="11164" tvg-name="TNT HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/565.png" group-title="Entertainments",TNT HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/137.ts
+#EXTINF:-1 tvg-id="11867" tvg-name="TBS East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/553.png" group-title="Entertainments",TBS East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/131.ts
+#EXTINF:-1 tvg-id="10179" tvg-name="ESPN US HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/549.png" group-title="Sports",ESPN US HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/129.ts
+#EXTINF:-1 tvg-id="45654" tvg-name="ESPNU HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/567.png" group-title="Sports",ESPNU HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/138.ts
+#EXTINF:-1 tvg-id="16485" tvg-name="ESPNews US HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1213.png" group-title="Sports",ESPNews US HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/239.ts
+#EXTINF:-1 tvg-id="12444" tvg-name="ESPN 2 US HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1215.png" group-title="Sports",ESPN 2 US HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/240.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL RedZone /ESPN+ HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3884.png" group-title="Sports",NFL RedZone /ESPN+ HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/6585.ts
+#EXTINF:-1 tvg-id="11182" tvg-name="TSN 1" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3297.png" group-title="Sports",TSN 1
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/375.ts
+#EXTINF:-1 tvg-id="18990" tvg-name="TSN 2" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3302.png" group-title="Sports",TSN 2
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/376.ts
+#EXTINF:-1 tvg-id="90118" tvg-name="TSN 3" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3307.png" group-title="Sports",TSN 3
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/377.ts
+#EXTINF:-1 tvg-id="90122" tvg-name="TSN 4" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3312.png" group-title="Sports",TSN 4
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/378.ts
+#EXTINF:-1 tvg-id="90124" tvg-name="TSN 5" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3317.png" group-title="Sports",TSN 5
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/379.ts
+#EXTINF:-1 tvg-id="82547" tvg-name="Fox Sports 1 US HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/46.png" group-title="Sports",Fox Sports 1 US HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/28.ts
+#EXTINF:-1 tvg-id="33178" tvg-name="Fox Sports 2 US HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/673.png" group-title="Sports",Fox Sports 2 US HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/168.ts
+#EXTINF:-1 tvg-id="62081" tvg-name="MLB Network HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/40.png" group-title="Sports",MLB Network HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/22.ts
+#EXTINF:-1 tvg-id="20643" tvg-name="SKY Sports News" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/54.png" group-title="Sports",SKY Sports News
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/31.ts
+#EXTINF:-1 tvg-id="34710" tvg-name="NFL Network HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/591.png" group-title="Sports",NFL Network HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/149.ts
+#EXTINF:-1 tvg-id="83162" tvg-name="Fighting Sports Network HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3257.png" group-title="Sports",Fighting Sports Network HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/367.ts
+#EXTINF:-1 tvg-id="32281" tvg-name="NBA TV HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1207.png" group-title="Sports",NBA TV HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/236.ts
+#EXTINF:-1 tvg-id="58690" tvg-name="NHL Network USA HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/41.png" group-title="Sports",NHL Network USA HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/23.ts
+#EXTINF:-1 tvg-id="16365" tvg-name="CBS Sports Network HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1219.png" group-title="Sports",CBS Sports Network HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/242.ts
+#EXTINF:-1 tvg-id="48639" tvg-name="NBC Sport Network HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/2502.png" group-title="Sports",NBC Sport Network HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/335.ts
+#EXTINF:-1 tvg-id="91306" tvg-name="WWE Network" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3530.png" group-title="Sports",WWE Network
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/395.ts
+#EXTINF:-1 tvg-id="45169" tvg-name="MAV tv" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3242.png" group-title="Sports",MAV tv
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/366.ts
+#EXTINF:-1 tvg-id="" tvg-name="162" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="163" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="76382" tvg-name="PAC 12 Networks" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3833.png" group-title="Sports",PAC 12 Networks
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Arizona" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3834.png" group-title="Sports",PAC 12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Bay Area" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3835.png" group-title="Sports",PAC 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Los Angeles" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3836.png" group-title="Sports",PAC 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Mountain" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3837.png" group-title="Sports",PAC 12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Oregon" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3838.png" group-title="Sports",PAC 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Washington" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3839.png" group-title="Sports",PAC 12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:-1 tvg-id="10171" tvg-name="Disney Channel East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/21.png" group-title="Kids",Disney Channel East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/6.ts
+#EXTINF:-1 tvg-id="74796" tvg-name="Disney Jr HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1832.png" group-title="Kids",Disney Jr HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/311.ts
+#EXTINF:-1 tvg-id="18279" tvg-name="Disney XD HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1840.png" group-title="Kids",Disney XD HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/313.ts
+#EXTINF:-1 tvg-id="21883" tvg-name="Boomerang USA HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1885.png" group-title="Kids",Boomerang USA HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/322.ts
+#EXTINF:-1 tvg-id="12131" tvg-name="Cartoon Network HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/2509.png" group-title="Kids",Cartoon Network HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/337.ts
+#EXTINF:-1 tvg-id="11006" tvg-name="Nickelodeon East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/973.png" group-title="Kids",Nickelodeon East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/218.ts
+#EXTINF:-1 tvg-id="19211" tvg-name="Nick Jr HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1852.png" group-title="Kids",Nick Jr HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/315.ts
+#EXTINF:-1 tvg-id="59036" tvg-name="Teen Nick" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1857.png" group-title="Kids",Teen Nick
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/316.ts
+#EXTINF:-1 tvg-id="10093" tvg-name="FREEFORM HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1835.png" group-title="Entertainments",FREEFORM HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/312.ts
+#EXTINF:-1 tvg-id="16618" tvg-name="Discovery Family" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1847.png" group-title="Kids",Discovery Family
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/314.ts
+#EXTINF:-1 tvg-id="66268" tvg-name="Hallmark Channel HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3526.png" group-title="Entertainments",Hallmark Channel HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/392.ts
+#EXTINF:-1 tvg-id="17444" tvg-name="Discovery Channel USA HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/4.png" group-title="Science",Discovery Channel USA HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/1.ts
+#EXTINF:-1 tvg-id="24284" tvg-name="Discovery Turbo" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/56.png" group-title="Culture",Discovery Turbo
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/32.ts
+#EXTINF:-1 tvg-id="57394" tvg-name="Animal Planet HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1825.png" group-title="Culture",Animal Planet HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/309.ts
+#EXTINF:-1 tvg-id="23305" tvg-name="Nat Geo Wild HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1810.png" group-title="Culture",Nat Geo Wild HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/306.ts
+#EXTINF:-1 tvg-id="49438" tvg-name="National Geographic Channel HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/897.png" group-title="Culture",National Geographic Channel HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/209.ts
+#EXTINF:-1 tvg-id="31738" tvg-name="Yesterday" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/64.png" group-title="Entertainments",Yesterday
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/34.ts
+#EXTINF:-1 tvg-id="35806" tvg-name="Eden" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/58.png" group-title="Entertainments",Eden
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/33.ts
+#EXTINF:-1 tvg-id="70388" tvg-name="OWN HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3862.png" group-title="Science",OWN HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/6099.ts
+#EXTINF:-1 tvg-id="" tvg-name="RT Documentary" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/899.png" group-title="Culture",RT Documentary
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+#EXTINF:-1 tvg-id="58793" tvg-name="Dmax" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1755.png" group-title="Culture",Dmax
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/297.ts
+#EXTINF:-1 tvg-id="16615" tvg-name="Investigation Discovery HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1217.png" group-title="Science",Investigation Discovery HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/241.ts
+#EXTINF:-1 tvg-id="57390" tvg-name="Science Channel HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1295.png" group-title="Science",Science Channel HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/261.ts
+#EXTINF:-1 tvg-id="16617" tvg-name="Destination America HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1817.png" group-title="Culture",Destination America HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/308.ts
+#EXTINF:-1 tvg-id="18284" tvg-name="American Heroes Channel" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1865.png" group-title="Culture",American Heroes Channel
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/317.ts
+#EXTINF:-1 tvg-id="17453" tvg-name="Travel Channel UK" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1627.png" group-title="Culture",Travel Channel UK
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/294.ts
+#EXTINF:-1 tvg-id="57827" tvg-name="CBS Drama" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1257.png" group-title="Entertainments",CBS Drama
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/244.ts
+#EXTINF:-1 tvg-id="31756" tvg-name="CBS Reality" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1261.png" group-title="Entertainments",CBS Reality
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/246.ts
+#EXTINF:-1 tvg-id="55205" tvg-name="Chiller TV" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3135.png" group-title="Entertainments",Chiller TV
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/362.ts
+#EXTINF:-1 tvg-id="58646" tvg-name="CNN US HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/10.png" group-title="Information",CNN US HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/2.ts
+
+#EXTINF:-1 tvg-id="64549" tvg-name="Headline News HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3528.png" group-title="Information",Headline News HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/394.ts
+#EXTINF:-1 tvg-id="20711" tvg-name="Bloomberg TV US" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/971.png" group-title="Business",Bloomberg TV US
+http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3617.png" group-title="Information",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="RT US" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3637.png" group-title="Information",RT US
+http://bit.ly/2fLjFp4
+#EXTINF:-1 tvg-id="60179" tvg-name="Fox News Channel HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/22.png" group-title="Information",Fox News Channel HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/7.ts
+#EXTINF:-1 tvg-id="58649" tvg-name="Fox Business HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3112.png" group-title="Business",Fox Business HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/359.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1087.png" group-title="Information",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-p.m3u8
+#EXTINF:-1 tvg-id="10139" tvg-name="CNBC US HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1765.png" group-title="Information",CNBC US HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/299.ts
+#EXTINF:-1 tvg-id="16300" tvg-name="MSNBC HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1770.png" group-title="Information",MSNBC HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/300.ts
+#EXTINF:-1 tvg-id="" tvg-name="WGN News" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3597.png" group-title="Information",WGN News
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+#EXTINF:-1 tvg-id="10161" tvg-name="C-Span" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3620.png" group-title="Information",C-Span
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="10162" tvg-name="C-Span  Book TV" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3622.png" group-title="Information",C-Span  Book TV
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="C-Span American History TV" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3621.png" group-title="Information",C-Span American History TV
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="58812" tvg-name="The Weather Channel" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/12.png" group-title="Information",The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/index_800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="72422" tvg-name="WeatherNation" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1894.png" group-title="Information",WeatherNation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/protocol/http/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Weather Network" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3288.png" group-title="Information",The Weather Network
+https://bcsecurelivehls-i.akamaihd.net/hls/live/261940/1942203455001/nat/master_Layer5.m3u8
+#EXTINF:-1 tvg-id="19037" tvg-name="BBC News" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/251.png" group-title="Information",BBC News
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/109.ts
+#EXTINF:-1 tvg-id="16234" tvg-name="SKY News" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/249.png" group-title="Information",SKY News
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/108.ts
+#EXTINF:-1 tvg-id="20711" tvg-name="Bloomberg TV UK" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1089.png" group-title="Business",Bloomberg TV UK
+http://live-bloomberg-eu-west.global.ssl.fastly.net/eu/EU1000kb_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT UK" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3638.png" group-title="Information",RT UK
+http://bit.ly/2fL9TDr
+#EXTINF:-1 tvg-id="20711" tvg-name="Bloomberg TV Asia" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3265.png" group-title="Business",Bloomberg TV Asia
+http://live-bloomberg-ap-north.global.ssl.fastly.net/ap/AP1000kb_live.m3u8
+#EXTINF:-1 tvg-id="89542" tvg-name="BBC World News" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1760.png" group-title="Information",BBC World News
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/298.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT World" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3610.png" group-title="Information",TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT International" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/62.png" group-title="Information",RT International
+http://rtcdn.ashttp14.visionip.tv/live/rtcdn-rtcdn-rt-hsslive-25f-16x9-HD/playlist.m3u8
+#EXTINF:-1 tvg-id="58685" tvg-name="France 24" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/419.png" group-title="Information",France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Press TV" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1959.png" group-title="Information",Press TV
+http://178.32.255.199:1935/live/ptven/playlist.m3u8
+#EXTINF:-1 tvg-id="49968" tvg-name="Al Jazeera" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/60.png" group-title="Information",Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+#EXTINF:-1 tvg-id="15192" tvg-name="CNN International" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3686.png" group-title="Information",CNN International
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/416.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNBC World" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3870.png" group-title="Information",CNBC World
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/6296.ts
+#EXTINF:-1 tvg-id="" tvg-name="Africa News Network" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1964.png" group-title="Information",Africa News Network
+rtmp://46.4.25.213/live-ann7/ann7-hi.stream
+#EXTINF:-1 tvg-id="62096" tvg-name="NHK World" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/733.png" group-title="Information",NHK World
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_2100.m3u8
+#EXTINF:-1 tvg-id="28452" tvg-name="Arirang TV" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/921.png" group-title="Culture",Arirang TV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NewsmaxTV" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3642.png" group-title="Information",NewsmaxTV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="234" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="235" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="236" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="237" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="238" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="91096" tvg-name="WGN America HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/989.png" group-title="Entertainments",WGN America HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/220.ts
+#EXTINF:-1 tvg-id="" tvg-name="240" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="11163" tvg-name="Spike TV HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1620.png" group-title="Entertainments",Spike TV HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/292.ts
+#EXTINF:-1 tvg-id="10153" tvg-name="Tru TV East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/987.png" group-title="Entertainments",Tru TV East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/219.ts
+#EXTINF:-1 tvg-id="" tvg-name="243" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="244" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="245" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="246" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="34763" tvg-name="Universal Channel" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3675.png" group-title="Entertainments",Universal Channel
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/405.ts
+#EXTINF:-1 tvg-id="69061" tvg-name="Ovation HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1209.png" group-title="Entertainments",Ovation HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/237.ts
+#EXTINF:-1 tvg-id="61469" tvg-name="Crime & Investigation Network HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/467.png" group-title="Science",Crime & Investigation Network HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/124.ts
+#EXTINF:-1 tvg-id="53058" tvg-name="ION Television East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1882.png" group-title="Entertainments",ION Television East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/321.ts
+#EXTINF:-1 tvg-id="" tvg-name="251" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="252" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="84172" tvg-name="EL REY Network HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3854.png" group-title="Entertainments",EL REY Network HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/5984.ts
+#EXTINF:-1 tvg-id="45828" tvg-name="Really" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/50.png" group-title="Entertainments",Really
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/30.ts
+#EXTINF:-1 tvg-id="" tvg-name="255" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="Music Videos 1" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/501.png" group-title="Music",Music Videos 1
+http://djing.com/tv/underground.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Videos 2" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/503.png" group-title="Music",Music Videos 2
+http://djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Videos 3" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/499.png" group-title="Music",Music Videos 3
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="Music Videos 4" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/507.png" group-title="Music",Music Videos 4
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Videos 5" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/505.png" group-title="Music",Music Videos 5
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:-1 tvg-id="" tvg-name="Music Videos 6" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/277.png" group-title="Music",Music Videos 6
+http://wow01.105.net/live/virgin1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Videos 7" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/509.png" group-title="Music",Music Videos 7
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&s
+#EXTINF:-1 tvg-id="" tvg-name="Music Videos 8" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/513.png" group-title="Music",Music Videos 8
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Videos 9" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/515.png" group-title="Music",Music Videos 9
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Videos 10" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/529.png" group-title="Music",Music Videos 10
+http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="266" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="267" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="268" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="269" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="270" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="271" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="272" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="273" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="274" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="275" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="276" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="277" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="278" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="279" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="280" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="281" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="282" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="283" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="284" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="285" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="12553" tvg-name="NASA TV" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3639.png" group-title="Science",NASA TV
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="287" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="288" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="289" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="290" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="291" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="292" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="293" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="294" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="295" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="296" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="297" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="298" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="52199" tvg-name="Reelz Channel HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/885.png" group-title="Entertainments",Reelz Channel HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/208.ts
+#EXTINF:-1 tvg-id="19548" tvg-name="HBO East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1775.png" group-title="Cinema",HBO East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/301.ts
+#EXTINF:-1 tvg-id="59368" tvg-name="HBO 2 East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/28.png" group-title="Cinema",HBO 2 East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/12.ts
+#EXTINF:-1 tvg-id="10243" tvg-name="HBO Signature East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/545.png" group-title="Cinema",HBO Signature East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/128.ts
+#EXTINF:-1 tvg-id="19566" tvg-name="HBO West HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1777.png" group-title="Cinema",HBO West HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/302.ts
+#EXTINF:-1 tvg-id="59355" tvg-name="HBO 2 West HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/665.png" group-title="Cinema",HBO 2 West HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/164.ts
+#EXTINF:-1 tvg-id="16585" tvg-name="HBO Family East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1625.png" group-title="Cinema",HBO Family East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/293.ts
+#EXTINF:-1 tvg-id="" tvg-name="306" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="18429" tvg-name="HBO Comedy East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/589.png" group-title="Cinema",HBO Comedy East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/148.ts
+#EXTINF:-1 tvg-id="59845" tvg-name="HBO Zone HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/551.png" group-title="Cinema",HBO Zone HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/130.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Latino HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3863.png" group-title="Entertainments",HBO Latino HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/6185.ts
+#EXTINF:-1 tvg-id="10120" tvg-name="Cinemax East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/539.png" group-title="Cinema",Cinemax East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/125.ts
+#EXTINF:-1 tvg-id="12508" tvg-name="Cinemax West HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/541.png" group-title="Cinema",Cinemax West HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/126.ts
+#EXTINF:-1 tvg-id="" tvg-name="312" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="18433" tvg-name="ActionMax East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1199.png" group-title="Cinema",ActionMax East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/232.ts
+#EXTINF:-1 tvg-id="25620" tvg-name="5 StarMax HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1875.png" group-title="Cinema",5 StarMax HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/319.ts
+#EXTINF:-1 tvg-id="" tvg-name="315" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="59954" tvg-name="ThrillerMax East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1297.png" group-title="Cinema",ThrillerMax East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/262.ts
+#EXTINF:-1 tvg-id="" tvg-name="317" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="11115" tvg-name="Showtime East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/15.png" group-title="Cinema",Showtime East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/3.ts
+#EXTINF:-1 tvg-id="11117" tvg-name="Showtime West HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/555.png" group-title="Cinema",Showtime West HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/132.ts
+#EXTINF:-1 tvg-id="" tvg-name="Showtime 2 East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/557.png" group-title="Cinema",Showtime 2 East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/133.ts
+#EXTINF:-1 tvg-id="16153" tvg-name="Showtime Showcase East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/659.png" group-title="Cinema",Showtime Showcase East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/162.ts
+#EXTINF:-1 tvg-id="18086" tvg-name="Showtime Extreme East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/559.png" group-title="Cinema",Showtime Extreme East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/134.ts
+#EXTINF:-1 tvg-id="20622" tvg-name="Showtime Beyond East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/561.png" group-title="Cinema",Showtime Beyond East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/135.ts
+#EXTINF:-1 tvg-id="68342" tvg-name="Showtime Next HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/667.png" group-title="Cinema",Showtime Next HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/165.ts
+#EXTINF:-1 tvg-id="" tvg-name="325" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="326" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="35329" tvg-name="The Movie Channel East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/24.png" group-title="Cinema",The Movie Channel East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/9.ts
+#EXTINF:-1 tvg-id="17663" tvg-name="The Movie Channel Xtra East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/563.png" group-title="Cinema",The Movie Channel Xtra East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/136.ts
+#EXTINF:-1 tvg-id="" tvg-name="329" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="052" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="053" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="054" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="055" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="056" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="057" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="058" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="059" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="338" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="339" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="10178" tvg-name="Encore East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/26.png" group-title="Cinema",Encore East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/11.ts
+#EXTINF:-1 tvg-id="" tvg-name="341" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="14765" tvg-name="Encore Westerns" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3152.png" group-title="Cinema",Encore Westerns
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/363.ts
+#EXTINF:-1 tvg-id="14871" tvg-name="Encore Action East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1877.png" group-title="Cinema",Encore Action East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/320.ts
+#EXTINF:-1 tvg-id="" tvg-name="344" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="052" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="053" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="054" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="055" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="349" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="34941" tvg-name="Starz East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/23.png" group-title="Cinema",Starz East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/8.ts
+#EXTINF:-1 tvg-id="12741" tvg-name="Starz West HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/569.png" group-title="Cinema",Starz West HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/139.ts
+#EXTINF:-1 tvg-id="16311" tvg-name="Starz Edge East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/571.png" group-title="Cinema",Starz Edge East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/140.ts
+#EXTINF:-1 tvg-id="19634" tvg-name="Starz Cinema East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/573.png" group-title="Cinema",Starz Cinema East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/141.ts
+#EXTINF:-1 tvg-id="34901" tvg-name="Starz Comedy East" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/575.png" group-title="Cinema",Starz Comedy East
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/142.ts
+#EXTINF:-1 tvg-id="16833" tvg-name="Starz In Black East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/577.png" group-title="Cinema",Starz In Black East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/143.ts
+#EXTINF:-1 tvg-id="19635" tvg-name="Starz Kids & Family East HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/669.png" group-title="Kids",Starz Kids & Family East HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/166.ts
+#EXTINF:-1 tvg-id="" tvg-name="357" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="358" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="21107" tvg-name="SKY Premiere" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/66.png" group-title="Cinema",SKY Premiere
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/35.ts
+#EXTINF:-1 tvg-id="" tvg-name="360" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="24042" tvg-name="SKY Modern Greats" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/257.png" group-title="Cinema",SKY Modern Greats
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/112.ts
+#EXTINF:-1 tvg-id="24034" tvg-name="SKY Disney" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/68.png" group-title="Kids",SKY Disney
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/36.ts
+#EXTINF:-1 tvg-id="24040" tvg-name="SKY Family" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/70.png" group-title="Cinema",SKY Family
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/37.ts
+#EXTINF:-1 tvg-id="24031" tvg-name="SKY Action & Adventure" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/72.png" group-title="Cinema",SKY Action & Adventure
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/38.ts
+#EXTINF:-1 tvg-id="24039" tvg-name="SKY Comedy" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/74.png" group-title="Cinema",SKY Comedy
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/39.ts
+#EXTINF:-1 tvg-id="56140" tvg-name="SKY Crime & Thriller" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/76.png" group-title="Cinema",SKY Crime & Thriller
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/40.ts
+#EXTINF:-1 tvg-id="24032" tvg-name="SKY Movies Drama" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/259.png" group-title="Cinema",SKY Movies Drama
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/113.ts
+#EXTINF:-1 tvg-id="24041" tvg-name="SKY Scifi & Horror" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/78.png" group-title="Cinema",SKY Scifi & Horror
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/41.ts
+#EXTINF:-1 tvg-id="49139" tvg-name="SKY Select" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/80.png" group-title="Cinema",SKY Select
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/42.ts
+#EXTINF:-1 tvg-id="44717" tvg-name="True Movies 1" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/443.png" group-title="Cinema",True Movies 1
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/123.ts
+#EXTINF:-1 tvg-id="50011" tvg-name="True Movies 2" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/261.png" group-title="Cinema",True Movies 2
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/114.ts
+#EXTINF:-1 tvg-id="50589" tvg-name="Movies 24" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/263.png" group-title="Cinema",Movies 24
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/115.ts
+#EXTINF:-1 tvg-id="21494" tvg-name="Film 4" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/253.png" group-title="Cinema",Film 4
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/110.ts
+#EXTINF:-1 tvg-id="49141" tvg-name="MTV Live HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/579.png" group-title="Entertainments",MTV Live HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/144.ts
+#EXTINF:-1 tvg-id="" tvg-name="375" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="052" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="051" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="378" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="61522" tvg-name="Hallmark Movies & Mysteries HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/581.png" group-title="Cinema",Hallmark Movies & Mysteries HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/145.ts
+#EXTINF:-1 tvg-id="" tvg-name="380" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="052" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="051" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="383" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="384" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="58530" tvg-name="MGM HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3874.png" group-title="Entertainments",MGM HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/6357.ts
+#EXTINF:-1 tvg-id="69130" tvg-name="Sony Movie Channel USA HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/671.png" group-title="Cinema",Sony Movie Channel USA HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/167.ts
+#EXTINF:-1 tvg-id="" tvg-name="387" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="380" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="052" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="051" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="391" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="7695o" tvg-name="Bein Sports US HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3860.png" group-title="Entertainments",Bein Sports US HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/6097.ts
+#EXTINF:-1 tvg-id="84542" tvg-name="Pursuit Channel HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3855.png" group-title="Entertainments",Pursuit Channel HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/5985.ts
+#EXTINF:-1 tvg-id="" tvg-name="394" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="052" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="380" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="052" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="398" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="104089" tvg-name="Olympic Channel" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3872.png" group-title="Sports",Olympic Channel
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/6298.ts
+#EXTINF:-1 tvg-id="33395" tvg-name="Tennis Channel HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1830.png" group-title="Sports",Tennis Channel HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/310.ts
+#EXTINF:-1 tvg-id="14899" tvg-name="Golf Channel HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1205.png" group-title="Sports",Golf Channel HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/235.ts
+#EXTINF:-1 tvg-id="" tvg-name="Setanta Sports" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/265.png" group-title="Sports",Setanta Sports
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/116.ts
+#EXTINF:-1 tvg-id="30505" tvg-name="At The Races" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/267.png" group-title="Sports",At The Races
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/117.ts
+#EXTINF:-1 tvg-id="24226" tvg-name="Racing UK" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1285.png" group-title="Sports",Racing UK
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/258.ts
+#EXTINF:-1 tvg-id="18337" tvg-name="Eurosport 1" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1347.png" group-title="Sports",Eurosport 1
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/264.ts
+#EXTINF:-1 tvg-id="27413" tvg-name="Eurosport 2" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1349.png" group-title="Sports",Eurosport 2
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/265.ts
+#EXTINF:-1 tvg-id="21813" tvg-name="MUTV" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/269.png" group-title="Sports",MUTV
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/118.ts
+#EXTINF:-1 tvg-id="35402" tvg-name="MSG HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1211.png" group-title="Sports",MSG HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/238.ts
+#EXTINF:-1 tvg-id="73823" tvg-name="BOXnation" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/781.png" group-title="Sports",BOXnation
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/174.ts
+#EXTINF:-1 tvg-id="17744" tvg-name="SKY Sports 1" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1269.png" group-title="Sports",SKY Sports 1
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/250.ts
+#EXTINF:-1 tvg-id="19036" tvg-name="SKY Sports 2" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1271.png" group-title="Sports",SKY Sports 2
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/251.ts
+#EXTINF:-1 tvg-id="19038" tvg-name="SKY Sports 3" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1273.png" group-title="Sports",SKY Sports 3
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/252.ts
+#EXTINF:-1 tvg-id="24216" tvg-name="SKY Sports 4" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1275.png" group-title="Sports",SKY Sports 4
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/253.ts
+#EXTINF:-1 tvg-id="89362" tvg-name="SKY Sports 5" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1277.png" group-title="Sports",SKY Sports 5
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/254.ts
+#EXTINF:-1 tvg-id="74410" tvg-name="SKY Sports F1" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1267.png" group-title="Sports",SKY Sports F1
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/249.ts
+#EXTINF:-1 tvg-id="82447" tvg-name="BT Sport 1" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1287.png" group-title="Sports",BT Sport 1
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/259.ts
+#EXTINF:-1 tvg-id="82449" tvg-name="BT Sport 2" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1289.png" group-title="Sports",BT Sport 2
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/260.ts
+#EXTINF:-1 tvg-id="95771" tvg-name="BT Sport 3" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3674.png" group-title="Sports",BT Sport 3
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/404.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SuperSport 1" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1279.png" group-title="Sports",ASTRO SuperSport 1
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/255.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SuperSport 2" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1281.png" group-title="Sports",ASTRO SuperSport 2
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/256.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SuperSport 3" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1283.png" group-title="Sports",ASTRO SuperSport 3
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/257.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SuperSport 4" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3764.png" group-title="Sports",ASTRO SuperSport 4
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/445.ts
+#EXTINF:-1 tvg-id="11141" tvg-name="Fox Sports Florida" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3650.png" group-title="Sports",Fox Sports Florida
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/402.ts
+#EXTINF:-1 tvg-id="46275" tvg-name="Yes Network HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1812.png" group-title="Sports",Yes Network HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/307.ts
+#EXTINF:-1 tvg-id="" tvg-name="425" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="426" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="11054" tvg-name="FOX Sports West HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3403.png" group-title="Sports",FOX Sports West HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/386.ts
+#EXTINF:-1 tvg-id="" tvg-name="428" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="429" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="61092" tvg-name="Fox Sports South HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3353.png" group-title="Sports",Fox Sports South HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/383.ts
+#EXTINF:-1 tvg-id="" tvg-name="431" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="431" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="433" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="10996" tvg-name="New England Sports Network HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3433.png" group-title="Sports",New England Sports Network HD
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/388.ts
+#EXTINF:-1 tvg-id="" tvg-name="437" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="438" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="437" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="438" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="SportsNet New York" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3413.png" group-title="Sports",SportsNet New York
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/387.ts
+#EXTINF:-1 tvg-id="" tvg-name="440" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="431" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="433" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="431" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="433" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="440" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="431" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="433" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="431" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="433" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="440" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="431" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="433" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="431" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="454" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="Ultimate Events & Sports 1" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1197.png" group-title="Sports",Ultimate Events & Sports 1
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/231.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ultimate Events & Sports 2" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1451.png" group-title="Sports",Ultimate Events & Sports 2
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/288.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ultimate Events & Sports 3" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3866.png" group-title="Sports",Ultimate Events & Sports 3
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/6280.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ultimate Events & Sports 4" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3867.png" group-title="Sports",Ultimate Events & Sports 4
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/6287.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ultimate Events & Sports 5" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3882.png" group-title="Information",Ultimate Events & Sports 5
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/6579.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ultimate Events & Sports 6" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3883.png" group-title="Sports",Ultimate Events & Sports 6
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/6580.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA 1" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3895.png" group-title="Sports",NBA 1
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7793.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA 2" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3894.png" group-title="Sports",NBA 2
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7791.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA 3" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3893.png" group-title="Sports",NBA 3
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7790.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA 4" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3892.png" group-title="Sports",NBA 4
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7789.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA 5" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3891.png" group-title="Sports",NBA 5
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7788.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA 6" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3890.png" group-title="Sports",NBA 6
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7787.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA 7" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3889.png" group-title="Sports",NBA 7
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7794.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA 8" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3888.png" group-title="Sports",NBA 8
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7792.ts
+#EXTINF:-1 tvg-id="17678" tvg-name="NFL 1" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3896.png" group-title="Sports",NFL 1
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7806.ts
+#EXTINF:-1 tvg-id="17679" tvg-name="NFL 2" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3897.png" group-title="Sports",NFL 2
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7795.ts
+#EXTINF:-1 tvg-id="17680" tvg-name="NFL 3" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3898.png" group-title="Sports",NFL 3
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7797.ts
+#EXTINF:-1 tvg-id="17681" tvg-name="NFL 4" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3899.png" group-title="Sports",NFL 4
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7799.ts
+#EXTINF:-1 tvg-id="17682" tvg-name="NFL 5" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3900.png" group-title="Sports",NFL 5
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7801.ts
+#EXTINF:-1 tvg-id="17683" tvg-name="NFL 6" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3901.png" group-title="Sports",NFL 6
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7803.ts
+#EXTINF:-1 tvg-id="17684" tvg-name="NFL 7" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3902.png" group-title="Sports",NFL 7
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7805.ts
+#EXTINF:-1 tvg-id="17685" tvg-name="NFL 8" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3903.png" group-title="Sports",NFL 8
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7807.ts
+#EXTINF:-1 tvg-id="17686" tvg-name="NFL 9" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3904.png" group-title="Sports",NFL 9
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7796.ts
+#EXTINF:-1 tvg-id="24258" tvg-name="NFL 10" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3905.png" group-title="Sports",NFL 10
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7798.ts
+#EXTINF:-1 tvg-id="17728" tvg-name="NFL 11" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3906.png" group-title="Sports",NFL 11
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7800.ts
+#EXTINF:-1 tvg-id="17729" tvg-name="NFL 12" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3907.png" group-title="Sports",NFL 12
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7802.ts
+#EXTINF:-1 tvg-id="17789" tvg-name="NFL 13" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3908.png" group-title="Sports",NFL 13
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7804.ts
+#EXTINF:-1 tvg-id="50135" tvg-name="NHL 1" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3920.png" group-title="Sports",NHL 1
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7811.ts
+#EXTINF:-1 tvg-id="50136" tvg-name="NHL 2" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3919.png" group-title="Sports",NHL 2
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7809.ts
+#EXTINF:-1 tvg-id="50137" tvg-name="NHL 3" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3917.png" group-title="Sports",NHL 3
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7817.ts
+#EXTINF:-1 tvg-id="50138" tvg-name="NHL 4" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3918.png" group-title="Sports",NHL 4
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7819.ts
+#EXTINF:-1 tvg-id="50139" tvg-name="NHL 5" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3916.png" group-title="Sports",NHL 5
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7815.ts
+#EXTINF:-1 tvg-id="50140" tvg-name="NHL 6" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3915.png" group-title="Sports",NHL 6
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7813.ts
+#EXTINF:-1 tvg-id="54348" tvg-name="NHL 7" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3914.png" group-title="Sports",NHL 7
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7812.ts
+#EXTINF:-1 tvg-id="54349" tvg-name="NHL 8" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3913.png" group-title="Sports",NHL 8
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7810.ts
+#EXTINF:-1 tvg-id="83059" tvg-name="NHL 9" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3912.png" group-title="Sports",NHL 9
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7808.ts
+#EXTINF:-1 tvg-id="83060" tvg-name="NHL 10" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3910.png" group-title="Sports",NHL 10
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7816.ts
+#EXTINF:-1 tvg-id="83061" tvg-name="NHL 11" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3911.png" group-title="Sports",NHL 11
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7818.ts
+#EXTINF:-1 tvg-id="83064" tvg-name="NHL 12" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3909.png" group-title="Information",NHL 12
+http://xportal.iptvprivateserver.tv:80/live/xdonation/xdonation/7814.ts
+#EXTINF:-1 tvg-id="" tvg-name="494" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="495" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="496" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="14075" tvg-name="Playboy TV Latin America" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/111.png" group-title="For Adults",Playboy TV Latin America
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/50.ts
+#EXTINF:-1 tvg-id="" tvg-name="498" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="47855" tvg-name="Venus" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/107.png" group-title="For Adults",Venus
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/48.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sextreme" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/109.png" group-title="For Adults",Sextreme
+http://xportal.iptvprivateserver.tv/live/xdonation/xdonation/49.ts
+#EXTINF:-1 tvg-id="" tvg-name="501" tvg-logo="" group-title="-",
+http://null
+#EXTINF:-1 tvg-id="" tvg-name="Adult 1" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/297.png" group-title="For Adults",Adult 1
+http://iptvnation.com/porn/video.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult 2" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/445.png" group-title="For Adults",Adult 2
+http://178.33.126.213:1935/leved/passielivestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adult 3" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/447.png" group-title="For Adults",Adult 3
+http://iptvnation.com/porn/video.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult 4" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/473.png" group-title="For Adults",Adult 4
+http://iptvnation.com/porn/video.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult 5" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/475.png" group-title="For Adults",Adult 5
+http://iptvnation.com/porn/video.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult 6" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/477.png" group-title="For Adults",Adult 6
+http://iptvnation.com/porn/video.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult 7" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/479.png" group-title="For Adults",Adult 7
+http://iptvnation.com/porn/video.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult 8" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/481.png" group-title="For Adults",Adult 8
+rtmp://edge2.everyon.tv/etv2/pld1003
+#EXTINF:-1 tvg-id="" tvg-name="Adult 9" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/483.png" group-title="For Adults",Adult 9
+http://iptvnation.com/porn/video.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult 10" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/485.png" group-title="For Adults",Adult 10
+http://iptvnation.com/porn/video.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult 11" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/487.png" group-title="For Adults",Adult 11
+http://iptvnation.com/porn/video.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult 12" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/489.png" group-title="For Adults",Adult 12
+http://iptvnation.com/porn/video.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult 13" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/593.png" group-title="For Adults",Adult 13
+http://iptvnation.com/porn/video.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult HD 1" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/595.png" group-title="For Adults",Adult HD 1
+http://iptvnation.com/porn/video1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult HD 2" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/597.png" group-title="For Adults",Adult HD 2
+http://iptvnation.com/porn/video1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult HD 3" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1019.png" group-title="For Adults",Adult HD 3
+http://iptvnation.com/porn/video1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult HD 4" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1021.png" group-title="For Adults",Adult HD 4
+http://iptvnation.com/porn/video1080p.mp4
